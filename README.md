@@ -225,29 +225,3 @@ git branch
 git checkout master
 git pull origin master
 git checkout experiment-eda
-```
-
-## Images
-The following images were referenced in the original document but are not embedded here. Add them to the repository and link them in this Markdown file as needed:
-- image1.png
-- image2.png
-- image3.png
-- image4.png
-- image5.png
-- image6.png
-- image7.png
-- image8.png
-- image9.png
-- image10.png
-- image11.png
-- image12.png
-- image13.png
-- image14.png
-- image15.png
-- image16.png
-- image18.png
-
-To include an image in Markdown (e.g., `image1.png`), add it to your repository and reference it:
-```markdown
-![Description of image1](image1.png)
-```
